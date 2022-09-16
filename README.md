@@ -36,7 +36,7 @@ IBM Watson | PyCharm | Docker | Git
 - LinkedIn: https://www.linkedin.com/in/ahmed-abdulwahab-mohamed-zidane/ 
 
 # Feedback
-- I would appreciate it if you told me how to improve myself, I really need every piece of advice to develop myself , please reach me out on Email ro Linkedin  
+- I would appreciate it if you told me how to improve myself, I really need every piece of advice to develop myself , please reach me out on Email or Linkedin  
 - I know some week points of mine(problem solving and general software engineering principals) of mine and currently I am working on them. 
 - Thanks! 
 
