@@ -11,7 +11,8 @@ new things and work wherever I can gain knowledge at.
 ### Programming Languages
 - Python, C++ 
 ### Technologies, Frameworks and Libraries 
-- AWS Sagemaker | IBM Watson | TensorFlow | Pandas | Matplotlib | Scikit-learn | Keras | NumPy | Seaborn | Open CV
+- AWS Sagemaker | IBM Watson | Pandas | TensorFlow | Scikit-learn | Keras | Open CV | NumPy |
+-  Matplotlib | Seaborn 
 
 ### ML Algorithms
 - (K-Means, KNN, Decision tree, SVM, and more)
