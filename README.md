@@ -28,7 +28,7 @@ IBM Watson | PyCharm | Docker | Git
 
 # Languages
 - English: Full professional proficiency
-- German: Upper beginner (A2) currently learning B1  
+- German: Intermediate B1
 - Arabic: Native 
 
 # Resume 
