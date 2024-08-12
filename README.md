@@ -1,6 +1,6 @@
-# Ahmed Zidane
+<h1 style="text-align: center;">Ahmed Zidane</h1>
 
-## Data Scientist
+<h2 style="text-align: center;">Data Scientist</h2>
 
 📍 Cairo, Egypt | 📞 +201016112621 | 📧 [AhmedZiidanee@gmail.com](mailto:AhmedZiidanee@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-abdulwahab-mohamed-zidane) | 🔗 [Kaggle](https://www.kaggle.com/ahmedzedan0) | 🔗 [GitHub](https://github.com/Ahmedzedan0/Problem-Solving)
