@@ -2,8 +2,8 @@
 <h2 align="center">Data Scientist</h2>
 
 
-📍 Cairo, Egypt | 📞 +201016112621 | 📧 [AhmedZiidanee@gmail.com](mailto:AhmedZiidanee@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-abdulwahab-mohamed-zidane) | 🔗 [Kaggle](https://www.kaggle.com/ahmedzedan0) | 🔗 [GitHub](https://github.com/Ahmedzedan0/Problem-Solving)
+<h3 align='"center">📍 Cairo, Egypt | 📞 +201016112621 | 📧 [AhmedZiidanee@gmail.com](mailto:AhmedZiidanee@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-abdulwahab-mohamed-zidane) | 🔗 [Kaggle](https://www.kaggle.com/ahmedzedan0) | 🔗 [GitHub](https://github.com/Ahmedzedan0/Problem-Solving)</h3>
 
 ---
 ## Experience
