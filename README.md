@@ -4,7 +4,7 @@
 
 <p align="center">
   📍 Cairo, Egypt | 📞 +201016112621 | 📧 <a href="mailto:AhmedZiidanee@gmail.com">AhmedZiidanee@gmail.com</a><br>
-  🔗 <a href="https://www.linkedin.com/in/ahmed-abdulwahab-mohamed-zidane">LinkedIn</a> | 🔗 <a href="https://www.kaggle.com/ahmedzedan0">Kaggle</a> | 🔗 <a href="https://github.com/Ahmedzedan0/Problem-Solving">GitHub</a>
+  🔗 <a href="https://www.linkedin.com/in/ahmed-abdulwahab-mohamed-zidane">LinkedIn</a>
 </p>
 
 ---
