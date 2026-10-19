@@ -1,108 +1,54 @@
-<h1 align="center">Ahmed Zidane</h1>
-<h2 align="center">Data Scientist</h2>
+# Hi, I'm Ahmed Zidane
 
+**AI Engineer** who designs, builds, and ships AI systems end to end. 3+ years putting LLM and machine-learning systems into production across fintech, telecom, and research. Based in Berlin.
 
-<p align="center">
-  📍 Cairo, Egypt | 📞 +201016112621 | 📧 <a href="mailto:AhmedZiidanee@gmail.com">AhmedZiidanee@gmail.com</a><br>
-  🔗 <a href="https://www.linkedin.com/in/ahmed-abdulwahab-mohamed-zidane">LinkedIn</a>
-</p>
+[![Website](https://img.shields.io/badge/zidane--ai.com-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://zidane-ai.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdulwahab-mohamed-zidane)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:AhmedZiidanee@gmail.com)
 
----
+## Now
+
+- **Senior Data Scientist at [Zeal](https://getzeal.io)**. Building a merchant-facing AI assistant on Dialogflow CX and MCP, so merchants self-serve reports, analytics, and tickets by chat.
+- **Building [Zuhausy](https://zuhausy.de)**, a swipe-based flatshare app for Germany with AI-ranked matching. Built solo, concept to App Store.
+- **MSc in Artificial Intelligence** at IU International University of Applied Sciences, Berlin (2025 to 2027).
+
 ## Experience
 
-### Data Scientist, Zeal
-*London, UK | 10/2023 – Present*
-- Extracted, mined, and visualized retail datasets for actionable insights
-- Predicted consumer behavior for physical retail using advanced forecasting techniques
-- Analyzed customer feedback sentiment to improve product and service offerings
-- Identified anomalies in data to mitigate risk and optimize operations
-- Partnered with product and customer-success teams to ensure AI services align with consumer needs
-- Consulted and proposed innovative AI integration solutions to drive business growth
+| Role | Where | When | Highlights |
+| --- | --- | --- | --- |
+| Senior Data Scientist | Zeal, London | 2025 to now | Merchant AI assistant (Dialogflow CX, MCP), AI workflows in n8n and Langflow |
+| Data Scientist | Zeal, London | 2023 to 2025 | Visit and spend forecasting, merchant health score, RFM retention, LLMs on GCP |
+| Data Scientist | Orange, Cairo | 2023 | LLMs on a single GPU (LoRA, QLoRA), Arabic OCR, RAG with ChromaDB and FAISS |
+| AI Intern | NTI, Cairo | 2022 to 2023 | Siamese face recognition, Egyptian ID card OCR (YOLO, Tesseract, FaceVGG) |
 
-### Data Scientist, Orange Labs
-*Cairo, Egypt | 01/2023 – 10/2023*
-- Optimized various large language models (LLMs) for efficient Q&A tasks, enabling their execution on a single GPU
-- Developed an OCR pipeline tailored to complex Arabic font digits, specifically for expiry date recognition
-- Utilized advanced image reconstruction and sequence recognition techniques to achieve accurate results
-- Applied AutoML technology to forecast complex tabular data
-- Created automated tests using the pytest framework to ensure robust software quality and dependability
-- Conducted gap analysis to identify areas for enhancement
+## Selected work
 
-### Artificial Intelligence Engineering Intern, National Telecommunication Institute (NTI)
-*Cairo, Egypt | 10/2022 – 01/2023*
-- Implemented various Computer Vision state-of-the-art technologies
-- Designed, developed, trained, and optimized Deep Neural Networks
-- Applied various Machine Learning and Deep Learning Algorithms
-- Applied Data Preprocessing, Manipulation, Visualization, and Analysis on various famous datasets
-- Built a Facial Recognition System using Siamese Network
-- Contributed to building Egyptian ID Card Information Extraction system using Arabic-OCR, Tesseract, Pre-Trained FaceVGG, and YOLO
-- Trained in Business English, Soft Skills, and Project Management for 132 Hours
+| Project | What it is |
+| --- | --- |
+| [Zuhausy](https://zuhausy.de) | Flatshare matching app for iOS and Android. Next.js, tRPC, Drizzle, Postgres + PostGIS, Redis, Capacitor. |
+| [All-in-one health dashboard](https://github.com/Ahmedzedan0/all-in-one-health-dashboard) | Lifetime view of Apple, Google, and Samsung Health exports. Runs fully in the browser, every figure carries a coverage badge. |
+| [End-to-end ML deployment](https://github.com/Ahmedzedan0/end-end-ml-deployment-fast-api) | Train, version (DVC), test, and serve a model with FastAPI and CI. |
+| [Customer churn, clean code](https://github.com/Ahmedzedan0/Predict_Customer_Churn_with_Clean_Code) | Churn model refactored into a tested, logged, PEP 8 library. |
+| [Real-time face mask detection](https://github.com/Ahmedzedan0/Real-Time-Face-Mask-Detection) | Graduation project, scored 199/200. |
 
----
+## Research
 
-## Skills
+**[Ladder Bottom-up Convolutional Bidirectional Variational Autoencoder for Image Translation of Dotted Arabic Expiration Dates](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-33/issue-5/053024/Ladder-Bottom-up-Convolutional-Bidirectional-Variational-Autoencoder-for-image-translation/10.1117/1.JEI.33.5.053024.short)**
 
-### Programming Languages
-- Python
-- C++
+Journal of Electronic Imaging (SPIE), 2024. Reconstructs dotted Arabic dates into readable ones at 97% recognition accuracy. [arXiv](https://arxiv.org/abs/2310.14069)
 
-### Frameworks and Libraries
-- PyTorch
-- TensorFlow
-- Pandas
-- Matplotlib
-- Scikit-learn
-- Keras
-- NumPy
-- Seaborn
-- Hugging-Face
-- Langchain
+## Stack
 
-### Tools and IDEs
-- Amazon SageMaker Studio
-- IBM Watson Studio
-- Visual Studio Code
-- Jupyter Lab
+- **Languages**: Python, SQL, C++, TypeScript
+- **AI / ML**: PyTorch, TensorFlow, scikit-learn, Hugging Face, LLaMA, LoRA / QLoRA, LangChain
+- **Data**: Pandas, NumPy, ChromaDB, FAISS, AutoML
+- **MLOps and cloud**: Docker, CI/CD, GCP, AWS SageMaker, FastAPI, DVC
+- **Automation**: n8n, Langflow, Dialogflow CX, MCP
 
-### Languages
-- English: Full Professional Proficiency
-- German: Intermediate (B1)
-- Arabic: Native
+## Certifications
 
-### Interpersonal Skills
-- Leadership (Graduation Project Team Leader)
-- Presentation
-- Communication
+Udacity ML DevOps Engineer Nanodegree · IBM Time Series and Survival Analysis · DeepLearning.AI Deep Learning Specialization · DeepLearning.AI and AWS Generative AI with LLMs · IBM Machine Learning with Python · Stanford Machine Learning
 
 ---
 
-## Education
-
-**Bachelor's degree | Electronics and Electrical Communication Engineering**  
-Tanta University, Egypt  
-*08/2017 – 08/2022*
-
----
-
-## Publications
-
-- [Convolutional Bidirectional Variational Autoencoder for Image Domain Translation of Dotted Arabic Expiration](https://arxiv.org/abs/2310.14069v1)
-
----
-
-## Courses & Certifications
-
-- [Deep Learning Specialization - DeepLearning.ai](https://www.coursera.org/account/accomplishments/specialization/certificate/R3WBMDS6CA7V) - 160 hrs
-- [PCPA: Programming Essentials in Python - Cisco](https://drive.google.com/file/d/1nDRZvX7xMw6qtRvO8H0ZPv7c5wP9c1ve/view?usp=share_link) - 75 hrs
-- [Machine Learning with Python - IBM](https://www.credly.com/badges/ec948081-c25b-4398-9284-e66888f062ab?source=linked_in_profile) - 13 hrs
-- [Python Data Structures - University of Michigan](https://www.coursera.org/account/accomplishments/verify/WPAFVLVLBEFQ) - 19 hrs
-- [Competitive Programming Bootcamp - Coach Academy](https://coursera.org/share/f4d5d9a198167c0532410c4239b85201) - 3 months
-- [Machine Learning - Stanford University](https://www.coursera.org/account/accomplishments/verify/XGDEE5TARGLS) - 108 hrs
-- [Deploying Machine Learning Models in Production](https://coursera.org/share/f38d68bf5664ee2aed1e974dab0b10b7) - 33 hrs
-- [Using Python to Access Web Data - University of Michigan](https://www.coursera.org/account/accomplishments/verify/5L9RD4AFK237) - 19 hrs
-- [6.0001 Introduction to Computer Science and Programming in Python](https://coursera.org/share/f38d68bf5664ee2aed1e974dab0b10b7)
-- [Generative AI with Large Language Models](https://coursera.org/share/f38d68bf5664ee2aed1e974dab0b10b7) - 16 hrs
-
----
-
-Feel free to connect with me for any collaborations or opportunities in the field of Data Science and AI!
+Arabic (native) · English (C1) · German (B2). Open to conversations about applied AI, LLM systems, and ML in production.
